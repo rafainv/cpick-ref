@@ -56,7 +56,7 @@ const cpick = async () => {
       await new Promise((r) => setTimeout(r, 1000));
     }
 
-    await new Promise((r) => setTimeout(r, 5000));
+    await new Promise((r) => setTimeout(r, 8000));
 
     // const clockVisible = await page.evaluate(() => {
     //   try {
